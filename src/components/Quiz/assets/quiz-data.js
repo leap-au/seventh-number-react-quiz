@@ -12,7 +12,7 @@ const quizData = {
         {
           id: 1,
           text: '60',
-          isCorrect: false,
+          isCorrect: true,
         },
         {
           id: 2,
@@ -22,7 +22,7 @@ const quizData = {
 		{
           id: 3,
           text: '-60',
-          isCorrect: true,
+          isCorrect: false,
         },
 		{
           id: 4,
@@ -255,12 +255,12 @@ const quizData = {
         {
           id: 1,
           text: '15',
-          isCorrect: false,
+          isCorrect: true,
         },
         {
           id: 2,
           text: '-15',
-          isCorrect: true,
+          isCorrect: false,
         },
 		{
           id: 3,
